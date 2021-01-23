@@ -5,6 +5,6 @@ pkg update
 pkg upgrade
 pkg install git
 pkg install python2
-git clone https://github.com/nobita22/sadap-wa
+git clone https://github.com/nobita22/watashiwa33/sadap-wa
 cd sadap-wa
 sadap-wa.py
